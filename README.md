@@ -10,7 +10,9 @@ any way you see fit.
 quick start
 -----------
 
+    npm install
     npm run build
+    ls -lh dist-main.js dist-vendor.js
 
 
 build script
