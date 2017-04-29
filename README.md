@@ -2,9 +2,9 @@ factor-bundle automatic vendor splitting
 ========================================
 
 Small demonstration of how you automatically declare files as being vendor
-specific. In this example, we just show assume that everything in
-`node_modules` is vendor related but you could modify the transform function
-any way you see fit.
+specific. In this example, we just assume that everything in `node_modules` is
+vendor related but you could modify the `threshold` function any way you see
+fit.
 
 
 quick start
