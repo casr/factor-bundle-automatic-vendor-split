@@ -1,0 +1,19 @@
+{
+  "name": "factor-bundle-automatic-vendor-split",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "./build"
+  },
+  "dependencies": {
+    "browserify": "14.3.0",
+    "factor-bundle": "2.5.0",
+    "virtual-dom": "2.1.1"
+  },
+  "devDependencies": {
+    "standard": "10.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/casr/factor-bundle-automatic-vendor-split.git"
+  }
+}
